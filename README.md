@@ -1,7 +1,8 @@
 # Bangla-Money-Dataset
 
 Nine Bangladeshi Banknote Data.
-Each image is 250X120 pixels.
+Each image is ( 120, 250, 3 ) pixels.
+<img src='takas.png'>
 
 
 ### Credits:
